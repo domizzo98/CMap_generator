@@ -1,4 +1,4 @@
-# CMAP GENERATOR (Automatic Generation of Conceptual Maps From Text)
+# CMAP GENERATOR (Generation of Conceptual Maps From Text)
 
 This repository presents an application of Natural Language Processing (NLP) methodologies to transform text into conceptual maps, aiming to aid in studying and comprehension processes. 
 
